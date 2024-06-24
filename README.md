@@ -1,4 +1,5 @@
 
+
 ## Website Link
 ![1w](https://github.com/knightafter/majoore.github.io/assets/136196221/c8145f62-b3c4-4e2b-abf9-6e4e93bcf4ee)
 ![2w](https://github.com/knightafter/majoore.github.io/assets/136196221/b036b429-1f16-4383-918b-b6c332ca081f)
@@ -21,6 +22,6 @@ __NOTE: PHP Mailer won't work on this deployed website. For that you need to dow
 
 
 
-Knight
+
 
 
